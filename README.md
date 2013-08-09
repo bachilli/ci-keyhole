@@ -3,6 +3,8 @@ ci-keyhole
 
 A simple auth library for CodeIgniter
 
+Don't forget to use ci_sessions to avoid cookie hijacking!
+
 Author
 ------
 
