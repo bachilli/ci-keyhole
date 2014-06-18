@@ -8,7 +8,7 @@ Don't forget to use ci_sessions to avoid cookie hijacking!
 Author
 ------
 
-Philippe Bachilli Pinheiro - http://br.linkedin.com/in/bachilli
+Philippe Bachilli - http://br.linkedin.com/in/bachilli
 
 Description
 -----------
